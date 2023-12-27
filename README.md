@@ -1,5 +1,5 @@
-### :space_invader: &nbsp;About Me
+### :space_invader: About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Data Engineer at [Mozilla](https://www.mozilla.com/) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for progress and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about modernization and automation in data.
+:woman_technologist: Currently working as a Data Engineer at [Mozilla](https://www.mozilla.com/)  
+:seedling: Love for progress and innovation
+:heartbeat: Passionate about modernization and automation in data
